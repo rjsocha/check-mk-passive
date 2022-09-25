@@ -6,7 +6,7 @@ host-grab-check "$HOSTNAME$" "$HOSTADDRESS$" "$_HOSTTAGS$"
 # Label: HOST:PASSIVE
 ```
 
-![Passive Host Setup](host-passive.png)
+![Passive Host Setup](.github/host-passive.png)
 
 
 ##
@@ -17,4 +17,4 @@ grab-check  "$HOSTNAME$" "$HOSTADDRESS$" "$_HOSTTAGS$"
 # Label: DS:PASSIVE"
 ```
 
-![Passive Check Setup](check-passive.png)
+![Passive Check Setup](.github/check-passive.png)
